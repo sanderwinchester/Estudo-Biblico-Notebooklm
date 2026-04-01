@@ -139,8 +139,6 @@ Esses prompts foram usados para gerar o material base dos resumos estruturados.
   - Resposta centrada em um período específico.  
   - Conteúdo mais útil para montar a seção de “Monarquia” do miniguia.
 
-*(Você pode adicionar aqui mais 1–3 cicatrizes reais conforme for usando o NotebookLM.)*
-
 ---
 
 ## 4. Miniguia de Estudo – História do Povo de Israel
